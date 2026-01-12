@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "selectedServer": "hvg",
+  "servers": [
+    {
+      "id": "hvg",
+      "name": "HVG",
+      "description": "HVG Minecraft Szerver",
+      "host": "play.vypers.hu",
+      "port": 25565
+    },
+    {
+      "id": "auroracraft",
+      "name": "AuroraCraft",
+      "description": "AuroraCraft Minecraft Szerver",
+      "host": "play.auroracraft.hu",
+      "port": 25565
+    },
+    {
+      "id": "frostverse",
+      "name": "Frost Verse",
+      "description": "Frost Verse Minecraft Szerver",
+      "host": "play.frostverse.eu",
+      "port": 25565
+    }
+  ]
+}
